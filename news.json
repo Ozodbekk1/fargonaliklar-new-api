@@ -128,5 +128,18 @@
     "tags": ["AI", "OpenAI"],
     "source": "OpenAI Blog",
     "readingTime": "6 min"
+  }, 
+  {
+    "id": 11,
+    "title": "OpenAI Releases GPT-5 API for Developers",
+    "slug": "openafgfi-releases-gpt-5-api-for-developers",
+    "description": "GPT-5 API offers enhanced reasoning and multi-modal capabilities.",
+    "content": "OpenAI's latest model can handle longer prompts, better code generation, and image-text analysis through a unified API.",
+    "author": "William Harris",
+    "publishedAt": "2025-01-15",
+    "imageUrl": "https://randomuser.me/api/portraits/men/60.jpg",
+    "tags": ["AI", "OpenAI"],
+    "source": "OpenAI Blog",
+    "readingTime": "6 min"
   }
 ]
